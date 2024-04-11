@@ -1,1 +1,1 @@
-Synthetic Code-Mixed (CM) Sentiment Analysis Datasets in Spanglish and Malayalam-English (Resource for our Paper)
+**Synthetic Code-Mixed (CM) Sentiment Analysis Data in Spanglish and Malayalam-English** (Resource for our Paper)
