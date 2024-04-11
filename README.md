@@ -1,1 +1,1 @@
-Resources for our paper: Synthetic Data in Spanglish and Malayalam-English
+Synthetic Code-Mixed (CM) Sentiment Analysis Datasets in Spanglish and Malayalam-English (Resource for our Paper)
