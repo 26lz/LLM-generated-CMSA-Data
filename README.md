@@ -21,27 +21,3 @@ All files are pickle files containing dictionaries with the following structure:
     random_number_2: ['sentence', 'sentiment'],
     ...
 }
-shell
-Copy code
-
-## Usage
-Please refer to the README files within each folder for specific usage instructions.
-
-## Citation
-If you use this dataset in your research, kindly cite our paper once published.
-
-## License
-This dataset is provided under [specify license].
-
-## Contact Information
-For inquiries or further information, please contact [your contact details].
-
-## Acknowledgments
-We acknowledge [any relevant acknowledgments].
-
-## Future Work
-We plan to [mention any future plans or developments].
-
-Feel free to contribute to this repository through pull requests or by reporting issues.
-
-Thank you for your interest in our research!
