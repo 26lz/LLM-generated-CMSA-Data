@@ -21,12 +21,7 @@ All files are pickle files containing dictionaries with the following structure:
     random_number_2: ['sentence', 'sentiment'],
     ...
 }
-
+'''
 Feel free to contribute to this repository through pull requests or by reporting issues.
 
 Thank you for your interest in our research!
-
-csharp
-
-
-
