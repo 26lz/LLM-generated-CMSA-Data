@@ -6,13 +6,13 @@ This repository serves as a resource for our unpublished paper, containing synth
 The repository consists of two main folders:
 
 ### Spanglish
-- **ensp_scm_[5k,10k,15k,25k,50k].pkl:** Synthetic Data Size (perfect data size)
+- **ensp_scm_[5k,10k,15k,25k,50k].pkl:** Synthetic Data Size (exact data size)
 - **ensp_scm_[15ex, 50ex, 150ex, 500ex].pkl:** Shot Size (raw data size)
 - **ensp_scm_[150exsmall, 150ex08].pkl:** Temperature (raw data size)
 
 ### Malayalam-English
 - **enma_scm_all.pkl:** All generated data (raw)
-- **enma_scm_15k_150ex.pkl:** Synthetic data used for training
+- **enma_scm_15k_150ex.pkl:** Synthetic data used for training (exact)
 
 All files are pickle files containing dictionaries with the following structure:
 ```python
@@ -21,6 +21,12 @@ All files are pickle files containing dictionaries with the following structure:
     random_number_2: ['sentence', 'sentiment'],
     ...
 }
+
+Feel free to contribute to this repository through pull requests or by reporting issues.
+
+Thank you for your interest in our research!
+
+csharp
 
 
 
